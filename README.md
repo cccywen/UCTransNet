@@ -1,6 +1,6 @@
 # AAAI2022-UCTransNet executable version modified for my environment.
 download [dataset](https://drive.google.com/drive/folders/15np7Y0VIUmU6JpvyG8abTlytiJl7tX9l?usp=drive_link)
-------The following content was written by the original author------
+## ------------------The following content was written by the original author------------------
 
 This repo is the official implementation of
 ['UCTransNet: Rethinking the Skip Connections in U-Net from
